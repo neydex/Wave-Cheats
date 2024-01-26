@@ -18,4 +18,4 @@ Blatant 1.8: Vestige v3
 
 Anarchy 1.12: Lambda
 
-General 1.20: LiquidBounce (LiquidLauncher)
+Newest version: LiquidBounce (LiquidLauncher)
