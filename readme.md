@@ -1,15 +1,15 @@
 **Info**
 
-Alle free Clients die ich kenne gibt es hier zum download.
+All free clients that I know are here for download.
 
-.zip Dateien als Ordner in .minecraft/versions ziehen (falls Client nicht geht -noverify zu jvm args hinzufügen)
+.zip files as folder in .minecraft/versions. (if Client doesnt work add -noverify to jvm args)
 
-.jar Dateien als mods in .minecraft/mods (Fabric oder Forge, nur Doomsday ist ein Inject client)
+.jar files are mods, go to .minecraft/mods (Fabric or Forge, Doomsday is the only inject client)
 
-exe/.msi sind Installer. Einfach nur ausführen
+exe/.msi are installers. Just run it.
 
 
-**Beste Clients:**
+**Best Clients:** (my opinion)
 
 
 Ghost 1.8: Raven S1
