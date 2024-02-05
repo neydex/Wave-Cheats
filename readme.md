@@ -14,7 +14,7 @@ exe/.msi are installers. Just run it.
 
 Ghost 1.8: Raven S1
 
-Blatant 1.8: Vestige v3
+Blatant 1.8: VestigeR
 
 Anarchy 1.12: Lambda
 
