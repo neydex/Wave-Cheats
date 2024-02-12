@@ -2,6 +2,8 @@
 
 All free clients that I know are here for download.
 
+Files with a ! are possibly infected.
+
 .zip files as folder in .minecraft/versions. (if client doesnt work try adding -noverify to jvm args)
 
 .jar files are mods, go to .minecraft/mods (Fabric or Forge)
