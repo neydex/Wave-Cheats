@@ -2,7 +2,7 @@
 
 All free clients that I know are here for download.
 
-Files with a ! are possibly infected.
+Files with an ! are possibly infected.
 
 .zip files as folder in .minecraft/versions. (if client doesnt work try adding -noverify to jvm args)
 
