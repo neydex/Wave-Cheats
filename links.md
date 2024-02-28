@@ -18,4 +18,10 @@ https://pandaware.space/download
 
 https://discord.gg/j38nQBNTK4
 
+https://vantage.rip
+
+https://vape.gg 
+
+
+
 use at your own risk
