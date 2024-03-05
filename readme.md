@@ -1,5 +1,7 @@
 **Info**
 
+THESE CLIENTS ARE NOT MINE
+
 All free clients that I know are here for download.
 
 Files with an ! are possibly infected.
